@@ -2,7 +2,7 @@
 <br>
 ✨ I'm a student passionate about coding and data science, currently studying in Singapore.
 <br><br>
-📸📱 When I'm not coding you can find me diving into photography and catching up on the latest developments in technology.
+📱 When I'm not coding you can find me diving into photography and catching up on the latest developments in technology.
 <br>
 <br>
 
