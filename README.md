@@ -15,6 +15,4 @@
 - 🎹 I also play the Piano and Drums, having reached Grade 5 in ABRSM and Rockschool respectively.
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-<br><br>
-Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api">
