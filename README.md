@@ -7,7 +7,7 @@
 <br>
 
 - ⚙️ I use: `.py`, `.js`, `.html`, `.css`, `.cs`, `.java`
-- 👨‍💻 Well-versed in Python, Java, C#, HTML, CSS and JavaScript.
+- 👨‍💻 Well-versed in Python, Java, C#, SQL, HTML, CSS and JavaScript.
 - 👾 I have also worked with Unity and C# to develop games.
 - 💻 My primary coding language is Python 
 - 🌱 Learning all about **Data Science**
