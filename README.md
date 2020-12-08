@@ -14,5 +14,3 @@
 - 💬 Interested in **data science**, **machine learning**, **artificial intelligence**, **web development**, **game development**
 - 🎹 I also play the Piano and Drums, having reached Grade 5 in ABRSM and Rockschool respectively.
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-
-<center><img src="https://readme-jokes.vercel.app/api"></center>
