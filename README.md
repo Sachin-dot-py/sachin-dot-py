@@ -1,16 +1,16 @@
 <h3 align="center">👋 Hi there! I'm Sachin Ramanathan</h3>
 <br>
-✨ I'm a student passionate about coding and data science, currently studying in Singapore.
+✨ I'm a student at <i>UC San Diego</i>, passionate about coding.
 <br><br>
-📱 When I'm not coding you can find me diving into photography and catching up on the latest developments in technology.
+🤖 My favourite type of coding project to work on is automation projects and workflows that save me (or others) time and effort.
 <br>
 <br>
 
 - ⚙️ I use: `.py`, `.js`, `.html`, `.css`, `.cs`, `.java`
-- 👨‍💻 Well-versed in Python, Java, C#, SQL, HTML, CSS and JavaScript.
-- 👾 I have also worked with Unity and C# to develop games.
+- 👨‍💻 Well-versed in Python, Java, C#, SQL, VBA, Bash, HTML, CSS and JavaScript.
+- 👾 I have created Web Apps, Desktop Games, Web Scrapers, APIs, Telegram & Discord Bots, Automation Shell Scripts, Excel Macros, and more.
+- 🏆 Finalist at IIT Bombay's eYSRC 2021 Game Development Competition (with over 50 Teams participating)
+- 📱 Creator of a Discord Bot used in 100+ Discord Servers by over 20,000 users.
 - 💻 My primary coding language is Python 
-- 🌱 Learning all about **Data Science**
+- 🌱 Learning all about **Machine Learning**
 - 💬 Interested in **data science**, **machine learning**, **artificial intelligence**, **web development**, **game development**
-- 🎹 I also play the Piano and Drums, having reached Grade 5 in ABRSM and Rockschool respectively.
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
