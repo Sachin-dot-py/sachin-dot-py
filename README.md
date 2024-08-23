@@ -4,7 +4,7 @@
 <br>
 🔎 Always looking for new coding projects and challenges! 
 <br>
-🤖 I love working on is automation projects and workflows that save me (or others) time and effort.
+🤖 I love working on automation projects and workflows that save me (or others) time and effort.
 <br>
 <br>
 
@@ -12,7 +12,7 @@
 - 👨‍💻 Well-versed in Python, Java, SQL, VBA, Bash, React.js, Next.js, HTML, CSS and JavaScript.
 - 👾 I have created Web Apps, Desktop Games, Web Scrapers, APIs, Telegram & Discord Bots, Automation Shell Scripts, Excel Macros, and more.
 - 🏆 Finalist at IIT Bombay's eYSRC 2021 Game Development Competition (with over 50 Teams participating).
-- 📱 Creator of a Verified Discord Bot used in 200+ Discord Servers by over 35,000 users.
+- 📱 Creator of a Verified Discord Bot used in 300+ Discord Servers by over 40,000 users.
 - 💻 My primary coding language is Python.
 - 🌱 Learning all about **Machine Learning**.
 - 💬 Interested in **web development**, **software development**, **automation**, and **artificial intelligence**.
