@@ -9,11 +9,11 @@
 <br>
 <br>
 
-- ⚙️ I use: `.py`, `.js`, `.java`, `.html`, `.css`, `.sh`
+- ⚙️ I use: `.py`, `.js`, `.java`, `.html`, `.css`, `.sh`, `.c`, `.cpp`
 - 👨‍💻 Well-versed in Python, Java, React.js, TypeScript, SQL, Bash, Next.js, HTML, CSS and JavaScript.
 - 👾 I have created Web Apps, Desktop Games, Web Scrapers, APIs, Telegram & Discord Bots, Automation Shell Scripts, Excel Macros, and more.
-- 🏆 Finalist at IIT Bombay's eYSRC 2021 Game Development Competition (with over 50 Teams participating).
-- 📱 Creator of a Verified Discord Bot used in 300+ Discord Servers by over 40,000 users.
+- 🏆 4x Hackathon Award Winner: CalHacks (Berkeley), DiamondHacks (UCSD), Hackarama (LPL Financial), eYSRC (IIT Bombay)
+- 📱 Creator of a Verified Discord Bot used in 450+ Discord Servers by over 50,000 users.
 - 💻 My primary coding language is Python.
 - 🌱 Learning all about **Machine Learning**.
 - 💬 Interested in **web development**, **software development**, **automation**, and **artificial intelligence**.
